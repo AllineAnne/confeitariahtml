@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7e5dc"/>
+      <stop offset="1" stop-color="#d9b7a7"/>
+    </linearGradient>
+    <linearGradient id="cake" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8d5dc"/>
+      <stop offset="1" stop-color="#d77b90"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#bg)"/>
+  <rect y="500" width="1600" height="200" fill="#8f604f"/>
+  <ellipse cx="790" cy="535" rx="310" ry="60" fill="#5f4035" opacity=".35"/>
+  <ellipse cx="790" cy="512" rx="290" ry="50" fill="#f7f0e8"/>
+  <rect x="590" y="325" width="400" height="185" rx="20" fill="url(#cake)"/>
+  <rect x="625" y="245" width="330" height="110" rx="18" fill="#f0b2bf"/>
+  <path d="M595 355c60 28 105-25 165 0s110-25 170 0 70-5 60-15v40H590z" fill="#fff8f1"/>
+  <path d="M630 275c55 26 95-20 148 0s100-22 160 0 30 25 17 31H625z" fill="#fff8f1"/>
+  <g fill="#b9244d">
+    <circle cx="655" cy="247" r="24"/><circle cx="734" cy="238" r="23"/><circle cx="816" cy="236" r="25"/><circle cx="899" cy="246" r="24"/>
+  </g>
+  <g fill="#ffdf85">
+    <circle cx="1050" cy="460" r="14"/><circle cx="1090" cy="430" r="11"/><circle cx="1134" cy="470" r="13"/>
+  </g>
+  <g fill="#b36f48">
+    <rect x="1080" y="486" width="130" height="25" rx="10"/><rect x="1030" y="515" width="170" height="25" rx="10"/>
+  </g>
+  <g fill="#f6efe8" opacity=".8">
+    <circle cx="250" cy="160" r="80"/><circle cx="1380" cy="155" r="90"/>
+  </g>
+</svg>
